@@ -20,10 +20,10 @@ public class Principal {
                     JOptionPane.showMessageDialog(null, "Subtração: " + calculadora.getSubtracao());
                     break;
                 case 4:
-                    JOptionPane.showMessageDialog(null, "Soma: " + calculadora.getProduto());
+                    JOptionPane.showMessageDialog(null, "Multiplicação: " + calculadora.getProduto());
                     break;
                 case 5:
-                    JOptionPane.showMessageDialog(null, "Soma: " + calculadora.getDivisao());
+                    JOptionPane.showMessageDialog(null, "Divisão: " + calculadora.getDivisao());
                     break;
             }
         }
